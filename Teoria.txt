@@ -1,0 +1,20 @@
+RISPOSTE DI TEORIA:
+
+1)
+
+
+
+2) C C
+
+
+3) ul li
+
+
+4) #welcome, .color{
+			background-color: #000;
+		  }
+
+5) <a href="www.avanade.com">Avanade</a>
+
+
+6) C

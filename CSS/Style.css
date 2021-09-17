@@ -1,0 +1,102 @@
+﻿*{margin:0; padding:0;}
+body, html {
+    height: 100%;
+}
+
+body {
+    background-image: url("../img/sfondo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*MENU*/
+.video, .formname
+{
+    padding: 30px;
+}
+
+.video div, .formname div
+{
+    width: 80%;
+    margin:auto;
+}
+
+#navbarNav ul li a:hover
+{
+    background-color:#f8f8f8;
+    color: #000;
+    border-radius: 10px;
+}
+
+/*SCHEDA TECNICA*/
+.scheda{
+    color:#fff;
+    padding:30px;
+}
+.informazioni {
+    border: 1px solid #691d1d;
+    border-radius: 20px;
+    background-color: rgb(173 168 168 / 0.89);
+    margin-right: 3px;
+}
+
+.trama {
+    border: 1px solid #691d1d;
+    border-radius: 20px;
+    background-color: rgb(173 168 168 / 0.89);
+    font-size:15px;
+}
+
+.imgfast img{
+    display:block;
+    margin-bottom:10px;
+    width:80%;
+    margin-left:100px;
+    margin-top:40px
+}
+.imgfast img:last-child{
+    
+    margin-top: 100px;
+}
+
+.tornahome{
+    margin-top:100px;
+    margin-left:90%;
+}
+
+
+/*NEWS*/
+.subscribe{
+    width: 30% !important;
+    margin-left: 500px !important;
+}
+
+.formname {
+    color: #fff;
+    font-size:20px;
+    padding-bottom:20%;
+}
+
+.formname img
+{
+    width: 30%;
+    display:block;
+}
+
+
+
+/*FOOTER*/
+.footer {
+    margin-top: 110px;
+}
+
+.footer nav
+{
+    padding:10px;
+    text-align: center;
+}
+
+.footer nav a 
+{
+    font-size:16px;
+}
